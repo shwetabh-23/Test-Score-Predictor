@@ -3,4 +3,7 @@ numpy
 seaborn
 datetime
 scikit-learn
+dill
+catboost
+xgboost
 -e .
